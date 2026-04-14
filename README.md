@@ -1,0 +1,30 @@
+# Chemical Tech Tree
+
+A tech tree extension mod which adds a progression through propellants and other chemicals, separate to the main tech tree.
+
+## Dependencies
+
+- [Chemical Core (1.5.0)](https://github.com/CharleRoger/ChemicalCore)
+- [ModuleManager (4.2.3)](https://github.com/sarbian/ModuleManager)
+- [Community Resource Pack (112.0.1)](https://github.com/UmbraSpaceIndustries/CommunityResourcePack)
+- [Hide Empty Tech Tree Nodes (1.3.2)](https://github.com/Orthethac/HideEmptyTechTreeNodes)
+
+## Compatibility
+
+### Supported
+
+- [Community Tech Tree (3.4.5)](https://github.com/post-kerbin-mining-corporation/CommunityTechTree)
+- [CSI Tech Tree (0.5.1)](https://forum.kerbalspaceprogram.com/topic/202292-1122-csi-tech-tree-05-usi-suite-updated)
+- [Gradual Progression Tech Tree (0.3.3)](https://github.com/hersfeldtn/GPTT)
+- [Kiwi Tech Tree (1.4.0)](https://github.com/hemeac/kiwiTechTree)
+- [Probes Before Crew (3.0.0)](https://forum.kerbalspaceprogram.com/topic/181013-ksp-18-112-probes-before-crew-pbc-version-293)
+- [QUARTIX Tech Tree (3.13)](https://forum.kerbalspaceprogram.com/topic/174731-1125-techtrees-quartix-313-tetrix-230-simplex-140)
+- [SIMPLEX Tech Tree (1.40)](https://forum.kerbalspaceprogram.com/topic/174731-1125-techtrees-quartix-313-tetrix-230-simplex-140)
+- [Skyhawk Science System (1.1.2)](https://github.com/CessnaSkyhawk/SkyhawkScienceSystem) (courtesy of @Arofire)
+- [Tech Tree Kompacted (1.6.1)](https://forum.kerbalspaceprogram.com/topic/199096-1123-techtree-kompacted-16-the-rp-1-edition)
+- [TETRIX Tech Tree (2.30)](https://forum.kerbalspaceprogram.com/topic/174731-1125-techtrees-quartix-313-tetrix-230-simplex-140)
+- [UnKerballed Start (1.3.2)](https://github.com/theonegalen/UnKerballedStart)
+
+## License
+
+Distributed under the GNU General Public License.
