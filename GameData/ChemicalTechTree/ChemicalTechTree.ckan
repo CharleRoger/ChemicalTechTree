@@ -3,7 +3,7 @@ $kref: '#/ckan/github/CharleRoger/ChemicalTechTree'
 $vref: '#/ckan/ksp-avc'
 ---
 identifier: ChemicalTechTree
-$kref: '#/ckan/spacedock/3865'
+$kref: '#/ckan/spacedock/4214'
 $vref: '#/ckan/ksp-avc'
 depends:
   - name: ModuleManager
