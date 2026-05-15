@@ -1,5 +1,6 @@
 # 1.1.0
 - Fixed Gradual Progression Tech Tree compatibility
+- Added proper Skyhawk Science System compatibility
 - Changed all tech tree node prerequisites from all-to-unlock to any-to-unlock
 - Completely reorganised tech tree into chemically-related branches, with the following tier changes:
   - LqdAmmonia: tier 1 → 0

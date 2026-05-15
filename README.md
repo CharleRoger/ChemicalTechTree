@@ -45,6 +45,9 @@ The positions of the tech tree nodes are adjusted to fit nicely together for the
 [SIMPLEX Tech Tree (1.40)](https://forum.kerbalspaceprogram.com/topic/174731-1125-techtrees-quartix-313-tetrix-230-simplex-140)
 ![[chemical-tech-tree-SIMPLEXTechTree.png]](https://raw.githubusercontent.com/CharleRoger/ChemicalTechTree/main/Screenshots/chemical-tech-tree-SIMPLEXTechTree.png)
 
+[Skyhawk Science System (1.1.2)](https://github.com/CessnaSkyhawk/SkyhawkScienceSystem)
+![[chemical-tech-tree-SkyhawkScienceSystem.png]](https://raw.githubusercontent.com/CharleRoger/ChemicalTechTree/main/Screenshots/chemical-tech-tree-SkyhawkScienceSystem.png)
+
 [Tech Tree Kompacted (1.6.1)](https://forum.kerbalspaceprogram.com/topic/199096-1123-techtree-kompacted-16-the-rp-1-edition)
 ![[chemical-tech-tree-TechTreeKompacted.png]](https://raw.githubusercontent.com/CharleRoger/ChemicalTechTree/main/Screenshots/chemical-tech-tree-TechTreeKompacted.png)
 
@@ -53,8 +56,6 @@ The positions of the tech tree nodes are adjusted to fit nicely together for the
 
 [UnKerballed Start (1.3.2)](https://github.com/theonegalen/UnKerballedStart)
 ![[chemical-tech-tree-UnKerballedStart.png]](https://raw.githubusercontent.com/CharleRoger/ChemicalTechTree/main/Screenshots/chemical-tech-tree-UnKerballedStart.png)
-
-Chemical Tech Tree is also compatible with [Skyhawk Science System (1.1.2)](https://github.com/CessnaSkyhawk/SkyhawkScienceSystem), but the part upgrades are integrated into the main tech tree rather than in separate nodes like the above, since the Skyhawk tech tree is designed with propellant-unlock nodes already.
 
 ## License
 
