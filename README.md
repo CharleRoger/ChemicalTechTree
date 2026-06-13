@@ -20,6 +20,7 @@ Each node of the Chemical Tech Tree contains a single part upgrade which is disa
 - [ModuleManager (4.2.3)](https://github.com/sarbian/ModuleManager)
 - [Community Resource Pack (112.0.1)](https://github.com/UmbraSpaceIndustries/CommunityResourcePack)
 - [Hide Empty Tech Tree Nodes (1.3.2)](https://github.com/Orthethac/HideEmptyTechTreeNodes)
+- [KSP Community Fixes (1.41.1)](https://github.com/KSPModdingLibs/KSPCommunityFixes)
 
 ## Compatibility
 

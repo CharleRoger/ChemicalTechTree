@@ -1,3 +1,6 @@
+# 1.1.0.1
+- Added KSP Community Fixes as a hard dependency
+  - Fixes part upgrades in free, starting tech tree nodes not being unlocked automatically
 # 1.1.0
 - Fixed Gradual Progression Tech Tree compatibility
 - Added proper Skyhawk Science System compatibility

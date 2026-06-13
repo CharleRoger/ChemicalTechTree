@@ -10,6 +10,7 @@ depends:
   - name: ChemicalCore
   - name: CommunityResourcePack
   - name: HideEmptyTechNodes
+  - name: KSPCommunityFixes
 supports:
   - name: CommunityTechTree
   - name: CrusoeSpaceIndustriesTechTree
